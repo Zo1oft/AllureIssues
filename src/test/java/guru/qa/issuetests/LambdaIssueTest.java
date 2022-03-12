@@ -12,7 +12,6 @@ import org.openqa.selenium.TakesScreenshot;
 import static com.codeborne.selenide.Selectors.withText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
-import static io.qameta.allure.Allure.addAttachment;
 import static io.qameta.allure.Allure.step;
 
 public class LambdaIssueTest {
